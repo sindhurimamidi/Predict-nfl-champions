@@ -1,5 +1,6 @@
 Predict NFL Champions
 =====================
+http://wenbin.us/skiena/591/final_projects/football/
 
 Team Members - Chetain Naik, Sindhuri Mamidi, Beijie Li, Ankit Arun
 
